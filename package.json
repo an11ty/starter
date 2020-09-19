@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/an11ty/an11ty"
   },
-  "homepage": "https://an11ty.com"
+  "homepage": "https://an11ty.com",
+  "dependencies": {
+    "an11ty": "*",
+    "@an11ty/template": "*"
+  }
 }
