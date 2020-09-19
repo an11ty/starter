@@ -29,3 +29,4 @@ Change categories are:
 
 [Unreleased]: https://github.com/an11ty/starter/compare/v0.0.1...HEAD
 [0.0.1]: https://github.com/an11ty/starter/compare/v0.0.0...v0.0.1
+[0.0.0]: https://github.com/an11ty/starter/tree/v0.0.0
