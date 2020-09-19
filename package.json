@@ -1,6 +1,6 @@
 {
   "name": "@an11ty/starter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Starter site for an11ty with a few example files.",
   "scripts": {
     "build": "an11ty build --template=an11ty-template",
