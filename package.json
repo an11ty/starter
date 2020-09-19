@@ -1,0 +1,19 @@
+{
+  "name": "@an11ty/starter",
+  "version": "0.0.0",
+  "description": "Starter site for an11ty with a few example files.",
+  "scripts": {
+    "build": "an11ty build --template=an11ty-template",
+    "dev": "an11ty dev --template=an11ty-template"
+  },
+  "keywords": [
+    "an11ty",
+    "11ty"
+  ],
+  "author": "saibotsivad",
+  "license": "VOL",
+  "bugs": {
+    "url": "https://github.com/an11ty/an11ty"
+  },
+  "homepage": "https://an11ty.com"
+}

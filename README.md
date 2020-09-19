@@ -1,2 +1,2 @@
-# starter
-Simple starter site, with minimal files.
+# Start for `an11ty`
+
