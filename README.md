@@ -1,8 +1,8 @@
-# Starter Site for 
+# Starter Site
 
 # [WIP]: Still at `0.x` things are still broken.
 
-This website built using [an11ty](https://github.com/an11ty/an11ty).
+This is a template for a website built using [an11ty](https://github.com/an11ty/an11ty).
 
 ## Setup
 
