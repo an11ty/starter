@@ -5,5 +5,7 @@
 
 # Normally you would commit the package-lock.json but here we
 # want every install of an11ty and the template to grab the
-# latest version within the same major version.
+# latest version within the same major version. This means
+# you can't use `npm ci` but you'll always have the most up
+# to date versions within the semver range.
 package-lock.json
