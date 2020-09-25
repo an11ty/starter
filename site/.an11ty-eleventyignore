@@ -1,0 +1,7 @@
+# This will get appended to the `.eleventyignore` file from
+# the template.
+
+# These are the example files included with many templates,
+# you should uncomment this line when you're ready to add
+
+#_src/_examples
