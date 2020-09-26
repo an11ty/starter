@@ -21,7 +21,7 @@
   },
   "homepage": "https://an11ty.com",
   "dependencies": {
-    "@an11ty/template": "^0.0.2",
-    "an11ty": "^0.0.25"
+    "@an11ty/template": "^0.0.3",
+    "an11ty": "^0.0.26"
   }
 }
