@@ -22,5 +22,10 @@ module.exports = {
 	json_feed: {
 		path: '/feed/feed.json',
 		url: `https://${domain}/feed/feed.json`
-	}
+	},
+	// The base @an11ty/template comes with a few example pages, as well
+	// as some example media files. If you remove this line, the media
+	// files won't be processed. To stop the example pages from rendering,
+	// you will need to look at the file `.an11ty-eleventyignore`
+	renderExampleContent: true
 }
