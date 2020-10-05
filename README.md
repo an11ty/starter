@@ -16,13 +16,6 @@ git init
 npm install
 ```
 
-Use git or some other tool to download this repository, then
-install all dependencies:
-
-```bash
-npm install
-```
-
 ## Build
 
 Build all pages and assets using:
