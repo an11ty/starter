@@ -1,0 +1,25 @@
+{
+  "title": "An11ty Website",
+  "url": "https://DOMAIN.COM",
+  "domain": "DOMAIN.COM",
+  "description": "Description of the website. Update me.",
+  "genre": "Insert a schema.org genre",
+  "googleAnalyticsId": "GA ID. Update me",
+  "feed": {
+    "subtitle": "Subtitle. Update me.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://DOMAIN.COM"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://DOMAIN.COM/feed/feed.json"
+  },
+  "author": {
+    "name": "Author Name. Update me.",
+    "twitterHandle": "update_me"
+  },
+  "publisher": {
+    "name": "Publisher name. Update me."
+  }
+}

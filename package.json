@@ -3,8 +3,8 @@
   "version": "0.0.3",
   "description": "Starter site for an11ty with a few example files.",
   "scripts": {
-    "build": "an11ty build --template=node_modules/@an11ty/template/src",
-    "dev": "an11ty dev --template=node_modules/@an11ty/template/src"
+    "build": "an11ty build --template=node_modules/eleventy-high-performance-blog/src",
+    "dev": "an11ty dev --template=node_modules/eleventy-high-performance-blog/src"
   },
   "keywords": [
     "an11ty",
@@ -21,7 +21,7 @@
   },
   "homepage": "https://an11ty.com",
   "dependencies": {
-    "@an11ty/template": "^0.0.3",
-    "an11ty": "^0.0.26"
+    "an11ty": "^0.0.26",
+    "eleventy-high-performance-blog": "github:saibotsivad/eleventy-high-performance-blog"
   }
 }
